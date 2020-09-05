@@ -1,0 +1,15 @@
+.event-input-wrapper {
+    margin-bottom: 10px;
+}
+
+.event-input-wrapper label {
+    display: block;
+    margin-bottom: 5px;
+    width: 50%;
+}
+
+.event-input-wrapper input,
+.event-input-wrapper textarea {
+    width: 50%;
+    border-radius: 10px;
+}
