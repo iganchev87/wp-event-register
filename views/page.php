@@ -26,9 +26,9 @@ $calendarData = [
 	<p>
 		<a href="http://www.google.com/calendar/render?action=TEMPLATE&<?php echo http_build_query($calendarData); ?>" target="_blank" rel="nofollow">Add to my google calendar</a>
 	</p>
-</div>
-<div class="googleMap">
+	<div class="googleMap">
 	<?php
-		include_once 'views/components/google-map.php';
+		include_once '/views/components/google-map.php';
 	?>
+</div>
 </div>
