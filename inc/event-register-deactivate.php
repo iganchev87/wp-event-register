@@ -1,14 +1,13 @@
 <?php
 
 /**
- * @package EventRegister
+ * @package Event_Register
  */
 
- class EventRegisterDeactivate
- {
-     public static function deactivate()
-     {
-        flush_rewrite_rules();
-     }
- }
- 
+class Event_Register_Deactivate
+{
+	public static function deactivate()
+	{
+		flush_rewrite_rules();
+	}
+}
