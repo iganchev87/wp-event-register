@@ -14,7 +14,7 @@ Event Register is a WordPress plugin for a new custom type of events.
 - New event can be created in Events (in Dashboard) after filing form.
 Form have 4 inputs: Title, Date, Event location and Event URL.
 - A Google Calendar button has been added in preview mode - it will open the calendar with filled in data for Title, date and location (from event data).
-- I tried to integrate Google map i, but due to problems it is only embedded.
+- I tried to integrate Google map, but due to problems API key,  the map is only embedded.
 
 
 ### Structure
