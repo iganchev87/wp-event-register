@@ -39,7 +39,7 @@ Form have 4 inputs: Title, Date, Event location and Event URL.
 │
 └── event-register.php
 
-4 directories, 9 files
+4 directories, 10 files
 ```
 
 ---
